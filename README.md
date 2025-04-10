@@ -3,6 +3,7 @@
 ## Members 
 
 Cheri Allen - project manager, product designer, dev
+Zoobly Jones - dev
 
 ## Mission Statement
 
