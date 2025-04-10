@@ -6,7 +6,7 @@ Cheri Allen - project manager, product designer, dev
 
 ## Mission Statement
 
-Facilitating access to the world's most beautiful beaches.
+Facilitating access to the world's most beautiful beaches for Seattleites.
 
 ## Problem
 
