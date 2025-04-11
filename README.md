@@ -3,7 +3,6 @@
 ## Members 
 
 Cheri Allen - project manager, product designer, dev
-Sven Example - dev
 
 ## Mission Statement
 
