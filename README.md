@@ -4,6 +4,8 @@
 
 Cheri Allen - project manager, product designer, dev
 Zoobly Jones - dev
+Sven Example - dev
+
 
 ## Mission Statement
 
